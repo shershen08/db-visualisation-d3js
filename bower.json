@@ -1,0 +1,23 @@
+{
+  "name": "circular-tree-db",
+  "version": "0.0.0",
+  "authors": [
+    "Mikhail Kuznetcov <mkuznetcov@effacts.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pegasus": "~0.3.2",
+    "d3": "~3.5.6",
+    "x2js": "~1.1.7",
+    "qwest": "~2.0.7",
+    "lodash": "~3.10.1"
+  }
+}

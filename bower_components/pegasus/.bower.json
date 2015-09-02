@@ -1,0 +1,46 @@
+{
+  "name": "pegasus",
+  "version": "0.3.2",
+  "homepage": "https://github.com/typicode/pegasus",
+  "authors": [
+    "Typicode <typicode@gmail.com>"
+  ],
+  "description": "Load data while still loading other scripts, works with jQuery, Backbone, Angular...",
+  "main": "dist/pegasus.js",
+  "keywords": [
+    "ajax",
+    "promise",
+    "xhr",
+    "http",
+    "request",
+    "XMLHttpRequest",
+    "data",
+    "json",
+    "bootstrap",
+    "performance",
+    "optimization",
+    "load",
+    "loader",
+    "preload",
+    "preloader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "gruntfile.js",
+    "package.json"
+  ],
+  "_release": "0.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.2",
+    "commit": "4088e37f6eac7c972f77ee20677aca36bfd0f700"
+  },
+  "_source": "git://github.com/typicode/pegasus.git",
+  "_target": "~0.3.2",
+  "_originalSource": "pegasus",
+  "_direct": true
+}
