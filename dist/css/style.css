@@ -1,0 +1,32 @@
+.node {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.link {
+  stroke: steelblue;
+  stroke-opacity: .8;
+  fill: none;
+}
+
+.inheritance-link {
+  stroke: red;
+  stroke-opacity: .8;
+  fill: none;
+}
+
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 11px;
+}
+
+path.link {
+  fill: none;
+  stroke-width: 1.5px;
+}
